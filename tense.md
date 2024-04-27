@@ -22,11 +22,21 @@
 8. We are - আমরা হই
 </pre>
 <pre>
+1. I am going - আমি যাইতেছি 
+2. He is going - সে যাইতেছে 
+3. She is going - সে যাইতেছে 
+4. It is going - ইহা যাইতেছে 
+5. They are going - তারা যাইতেছে 
+6. You are going - তুমি যাইতেছ
+7. You are going - তোমরা যাইতেছ 
+8. We are going - আমরা যাইতেছি
+</pre>
+<pre>
 1  I have - আমার আছে
 2. He has - তার আছে
 3. She has - তার আছে
 4. It has - ইহার আছে
-5. Thet have - তাদের আছে
+5. They have - তাদের আছে
 6. You have - তোমার আছে
 7. You have - তোমাদের আছে
 8. We have - আমাদের আছে 
@@ -66,6 +76,12 @@
 
 ### Tense এর Structure
 
+<pre>
+Past Indefinite => S + V1 + obj
+Past Continious => S + am/is/are + v1 + ing + Obj
+Past Perfect => S + have/has + v3 + obj
+Past Perfect Continious => S + have been/has been + v1 + ing + obj
+</pre>
 <pre>
 Past Indefinite => S + v2 + obj
 Past Continious => S + was / were + v1 + ing + Obj
