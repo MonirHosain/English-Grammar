@@ -77,10 +77,10 @@
 ### Tense এর Structure
 
 <pre>
-Past Indefinite => S + V1 + obj
-Past Continious => S + am/is/are + v1 + ing + Obj
-Past Perfect => S + have/has + v3 + obj
-Past Perfect Continious => S + have been/has been + v1 + ing + obj
+Present Indefinite => S + V1 + obj
+Present Continious => S + am/is/are + v1 + ing + Obj
+Present Perfect => S + have/has + v3 + obj
+Present Perfect Continious => S + have been/has been + v1 + ing + obj
 </pre>
 <pre>
 Past Indefinite => S + v2 + obj
